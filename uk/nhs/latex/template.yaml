@@ -1,0 +1,8 @@
+type: io.healthforge.doctool.template.latex
+title: Example NHS template
+author: HealthForge
+version: 1
+
+class: latex.cls
+assets:
+  - logo.pdf
